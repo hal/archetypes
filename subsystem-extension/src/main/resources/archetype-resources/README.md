@@ -36,4 +36,3 @@ Please note that the extension will only show up in the UI if the subsystem is c
 Integrate
 ---------
 
-The HAL [release-strem](https://github.com/hal/release-stream) is a GitHub repository and maven build which combines all certified extensions in one management console. If you want to contribute your extension, please open a pull request. 
