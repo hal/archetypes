@@ -27,3 +27,5 @@ mvn archetype:generate \
     -DarchetypeGroupId=org.jboss.hal.archetypes \
     -DarchetypeArtifactId=hal-subsystem-extension-archetype
 ```
+
+Once you've created an extension, take a look at the generated README.md for further instructions.
