@@ -4,7 +4,7 @@ A maven archetype to create an extension for the HAL management console. The arc
 
 ## Prerequisites
 
-The version number of the archetype maps to the lowest version number of the HAL management console it needs as a target. This in turn implies a specific WildFyl version. The following table shows the concrete dependencies between the version:  
+The version number of the archetype maps to the lowest version number of the HAL management console it needs as a target. This in turn implies a specific WildFly version. The following table shows the dependencies between the versions:  
   
 | Archetype Version | HAL Version Range | WildFly Version Range |
 |-------------------|-------------------|-----------------------|
