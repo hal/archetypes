@@ -10,6 +10,7 @@ The version number of the archetype maps to the lowest version number of the HAL
 |-------------------|-------------------|-----------------------|
 | 2.8.0             | [2.8.0,)          | [10.0.0.Alpha1,)      |
 | 2.8.12            | [2.8.0.12.Final,) | [10.0.0.Alpha1,)      |
+| 2.8.14            | [2.8.0.14.Final,) | [10.0.0.Alpha1,)      |
 
 ## Usage
 
